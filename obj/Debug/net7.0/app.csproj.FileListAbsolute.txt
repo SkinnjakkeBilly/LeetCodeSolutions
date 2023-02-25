@@ -1,0 +1,15 @@
+C:\kildekode\whatefver\app\bin\Debug\net7.0\app.exe
+C:\kildekode\whatefver\app\bin\Debug\net7.0\app.deps.json
+C:\kildekode\whatefver\app\bin\Debug\net7.0\app.runtimeconfig.json
+C:\kildekode\whatefver\app\bin\Debug\net7.0\app.dll
+C:\kildekode\whatefver\app\bin\Debug\net7.0\app.pdb
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.dll
+C:\kildekode\whatefver\app\obj\Debug\net7.0\refint\app.dll
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.pdb
+C:\kildekode\whatefver\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\kildekode\whatefver\app\obj\Debug\net7.0\ref\app.dll
