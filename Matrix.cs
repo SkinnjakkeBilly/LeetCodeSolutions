@@ -7,7 +7,11 @@ namespace leetcode{
             foreach(int s in steike){
                 Console.Write (s + " ");
             }
+            Dictionary<char, int> bokst = new Dictionary<char, int>();
+            bokst.Add(')', 12);
+            bokst.GetValueOrDefault('p');
         }
+        
         public static IList<int> SpiralOrder(int[][] matrix) 
         {
         List<int> ret = new List<int>();
