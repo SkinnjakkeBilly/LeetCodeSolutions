@@ -13,12 +13,12 @@ public class LetterCombinations {
         numMap.Add(9, "qxyz");
         
         int n = digits.Length;
-        List<string> result = new List<string>(); 
-        findCombinations(digits, numMap, 0, n, result);   
+        List<string> result = new List<string>();
+        findCombinations(digits, numMap, 0, n, result);
         return result;
     }
         
-    public void findCombinations(string digits, Dictionary<int, string> numMap, int index, int n, List<string> result){
+    public static void findCombinations(string digits, Dictionary<int, string> numMap, int index, int n, List<string> result){
         
         if(index == n){
             return;
