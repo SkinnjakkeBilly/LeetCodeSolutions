@@ -4,6 +4,7 @@ using System.Collections;
 
 /**
  * Definition for a list node.
+ * Stolen from : https://github.com/zhaoguanchen/leetcode/blob/main/src/leetcode/structure/ListNode.java
  */
 public class ListNode {
 
